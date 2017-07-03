@@ -1,0 +1,25 @@
+This week is about Greedy Algorithms.
+
+Main Ingrediants:
+- Find Safe move
+- Prove safety
+- Solve the subproblem
+- Estimate the runtimes
+
+- Safe Moves:
+All safe moves are greedy but not all greedy moves are safe.
+
+Always look for maximum, minimum, leftmost, rightmost, first
+
+Optimization:
+- Always look if sorting reduces the complexity
+
+
+Greedy Strategy:
+
+Problem -> safe move -> subproblem -> Problem ->....
+
+- Make a greedy choice
+- Prove that it is a safe move
+- Reduce the subproblem
+- Solve the problem
